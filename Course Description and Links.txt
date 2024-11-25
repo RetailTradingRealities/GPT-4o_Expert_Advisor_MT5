@@ -1,0 +1,50 @@
+
+
+Description:
+In this short course you will create a real Chat GPT-4o-mini trading algo in MT5.
+GPT-4o-mini will analyse financial news articles, key financial statements and 
+MT5 chart screenshots that are received via HTTP REQUEST. It will ping-back a HTTP RESPONSE;
+a 250 word summary and a one word summary "Bullish", "Bearish", "Flat", "Close-All".
+That RESPONSE will be stored in a SQL based DB. MT5 will take buy/Sell signals from that DB.
+You'll be using the OpenAI API, #Python, #SQL, #PHP and #MQL5 . 
+
+**Affiliate referrals below**
+
+Code Directory:
+Retail Trading Realities Ltd 
+GitHub https://github.com/RetailTradingRealities/GPT-4o_Expert_Advisor_MT5 
+https://momentum-trend.com/blog 
+
+MT5 & MetaEditor : 
+https://momentum-trend.com/brokers 
+https://www.ictrading.com/?camp=78992 (UK & EU)
+https://icmarkets.com/?camp=78875 (outside EU, not USA)
+https://teletrade.org/32250mp1jof0 (offshore unregulated)
+
+Darwinex|Zero:
+Monthly: https://www.darwinexzero.com?fpr=yet8v&coupon=MT_20
+Annual: https://www.darwinexzero.com?fpr=pl7o7&coupon=MT
+
+Windows 2022 VPS $24/mo £19/mo: 
+https://www.forexvps.net/partner/retailtradingrealities
+
+Hostinger**:
+20% off: https://hostinger.co.uk?REFERRALCODE=1PHILIPSANG60
+£3.00/mo business hosting 
+https://cart.hostinger.com/pay/98907092-3e0a-428b-b8cd-ce7108070d34?_ga=GA1.3.942352702.1711283207 
+£1.96/mo 
+https://cart.hostinger.com/pay/181cab4b-49f8-4d2b-8ca4-ffb9ffd5f47d?_ga=GA1.3.942352702.1711283207 
+**Cancel anytime within 12 months.
+
+
+python:
+https://www.python.org/downloads/windows/
+
+VSCode:
+https://code.visualstudio.com/download 
+
+Python virtual environment:
+https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/ 
+
+Selenium Chromedriver:
+https://googlechromelabs.github.io/chrome-for-testing/#stable 
