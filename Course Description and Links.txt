@@ -1,4 +1,4 @@
-
+https://www.youtube.com/watch?v=ad7hrkjqDWE
 
 Description:
 In this short course you will create a real Chat GPT-4o-mini trading algo in MT5.
