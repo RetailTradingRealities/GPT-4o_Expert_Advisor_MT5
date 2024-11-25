@@ -5,14 +5,14 @@ from openai import OpenAI
 
 def analyze_stock_data(pSymbol):
     # OpenAI API Key
-    api_key = 'sk-8jo3OHTwPnEtOSuW7S_OWQ7wwDG-NVhzAtmhhOlL-tT3BlbkFJWs_mpScF9FZVPxLCvuaToeUpPYGM4lSn3IE4Qr5-UA'
-    client = OpenAI(organization='org-fT2PuaSBV6sMBqbyfckbzMVU',
-                    project='proj_L7hhFh6dxM4wBQlo2sE0NSeN',
+    api_key = 'YOUR_OPENAI_API_KEY'
+    client = OpenAI(organization='YOUR_OPENAI_ORGANIZATION_KEY',
+                    project='OUR_OPENAI_PROJECT_KEY',
                     api_key = api_key,)
     # URLs for files
-    image_url = f"https://momentum-trend.com/gpt-4_ea_images/{pSymbol}.png"
+    image_url = f"https://YOUR-WEBSITE.COM/YOUR_FOLDER/{pSymbol}.png"
     txt_file_path = f"{pSymbol}_article.txt"
-    income_statement_csv = f"{pSymbol}_income_statement.csv"  # or path C:Users/Philip/Documents etc...
+    income_statement_csv = f"{pSymbol}_income_statement.csv"  
     cash_flow_csv = f"{pSymbol}_cashflow_statement.csv"
 
     # Fetch the image from the URL

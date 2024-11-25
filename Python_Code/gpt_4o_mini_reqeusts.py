@@ -12,7 +12,7 @@ def analyze_stock_data(pSymbol):
     # URLs for files
     image_url = f"https://YOUR-WEBSITE.COM/YOUR_FOLDER/{pSymbol}.png"
     txt_file_path = f"{pSymbol}_article.txt"
-    income_statement_csv = f"{pSymbol}_income_statement.csv"  # or path C:Users/Philip/Documents etc...
+    income_statement_csv = f"{pSymbol}_income_statement.csv"  
     cash_flow_csv = f"{pSymbol}_cashflow_statement.csv"
 
     # Fetch the image from the URL
