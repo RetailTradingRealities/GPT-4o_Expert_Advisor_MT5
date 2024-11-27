@@ -52,7 +52,7 @@ https://googlechromelabs.github.io/chrome-for-testing/#stable
 YouTube Timestamps:
 0:00 Intro
 4:05 Section 1 Install Python to Windows OS, Install Visual Studio Code IDE
-4:20 Section 2 Python Virtual environment (venv)
+7:20 Section 2 Python Virtual environment (venv)
 11:25 Section 3 Web-scraping Yahoo Finance with Selenium
 27:04 Section 4 Upload Chart Screenshot MT5 to Server (website)
 44:42 Section 5 Send our web-scraped data to OpenAI API via Http REQUEST
