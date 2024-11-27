@@ -28,12 +28,12 @@ Annual: https://www.darwinexzero.com?fpr=pl7o7&coupon=MT
 Windows 2022 VPS $24/mo £19/mo: 
 https://www.forexvps.net/partner/retailtradingrealities
 
-Hostinger**:
-20% off: https://hostinger.co.uk?REFERRALCODE=1PHILIPSANG60
+Hostinger** (updated links):
+20% off: https://hostinger.co.uk?REFERRALCODE=RQZPHILIPDGC
 £3.00/mo business hosting 
-https://cart.hostinger.com/pay/98907092-3e0a-428b-b8cd-ce7108070d34?_ga=GA1.3.942352702.1711283207 
+https://cart.hostinger.com/pay/ab40cc88-000b-461d-a21f-35ae7fec444b?_ga=GA1.3.942352702.1711283207 
 £1.96/mo 
-https://cart.hostinger.com/pay/181cab4b-49f8-4d2b-8ca4-ffb9ffd5f47d?_ga=GA1.3.942352702.1711283207 
+https://cart.hostinger.com/pay/b145976c-d7c7-4056-b7a5-b1a47ceaf2db?_ga=GA1.3.942352702.1711283207
 **Cancel anytime within 12 months.
 
 
@@ -48,3 +48,13 @@ https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/
 
 Selenium Chromedriver:
 https://googlechromelabs.github.io/chrome-for-testing/#stable 
+
+YouTube Timestamps:
+0:00 Intro
+4:05 Section 1 Install Python to Windows OS, Install Visual Studio Code IDE
+4:20 Section 2 Python Virtual environment (venv)
+11:25 Section 3 Web-scraping Yahoo Finance with Selenium
+27:04 Section 4 Upload Chart Screenshot MT5 to Server (website)
+44:42 Section 5 Send our web-scraped data to OpenAI API via Http REQUEST
+58:30 Section 6 Store our OpenAI RESPONSE in a MySQL/MariaDB database
+1:07:16 Section 7 Create .exe app using pyinstaller module
