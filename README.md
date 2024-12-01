@@ -2,8 +2,8 @@ https://www.youtube.com/watch?v=ad7hrkjqDWE
 Description:
 In this short course you will create a real Chat GPT-4o-mini trading algo in MT5.
 GPT-4o-mini will analyse financial news articles, key financial statements and 
-MT5 chart screenshots that are received via HTTP REQUEST. It will ping-back a HTTP RESPONSE;
-a 250 word summary and a one word summary "Bullish", "Bearish", "Flat", "Close-All".
+MT5 chart screenshots that are received via HTTP REQUEST. 
+It will ping-back a HTTP RESPONSE; a 250 word summary and a one word summary "Bullish", "Bearish", "Flat", "Close-All".
 That RESPONSE will be stored in a SQL based DB. MT5 will take buy/Sell signals from that DB.
 You'll be using the OpenAI API, #Python, #SQL, #PHP and #MQL5 . 
 
